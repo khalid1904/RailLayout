@@ -1,0 +1,19 @@
+{
+  "pnr": "6515483790",
+  "trainNumber": "13009",
+  "trainName": "DOON EXPRESS",
+  "journeyDate": "01-07-2018",
+  "class": "SL",
+  "chartPrepared": false,
+  "PassengerStatus": [
+    {
+      "Number": 1,
+      "BookingStatus": "RLWL/39/GN",
+      "CurrentStatus": "RLWL/11",
+      "Coach": "",
+      "CurrentCoachId": "",
+      "CurrentBerthNo": "",
+      "CurrentBerthCode": null
+    }
+  ]
+}

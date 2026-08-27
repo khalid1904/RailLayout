@@ -1,0 +1,54 @@
+{
+  "pnrNumber": "4823455664",
+  "train": {
+    "number": "12637",
+    "name": "PANDIAN EXPRESS",
+    "class": "SL",
+    "quota": "GN",
+    "dateOfJourney": "27 Aug 2026",
+    "boardingPoint": { "code": "MAS", "name": "Chennai Central" },
+    "destination": { "code": "MDU", "name": "Madurai Junction" }
+  },
+  "charting": {
+    "status": "Chart Prepared",
+    "prepared": true
+  },
+  "isWaitlisted": false,
+  "passengers": [
+    {
+      "serialNumber": "Passenger 1",
+      "berthCode": "LB",
+      "isConfirmed": true,
+      "isRAC": false,
+      "isWaitlisted": false,
+      "isCancelled": false,
+      "booking": {
+        "status": "CNF",
+        "coachId": "B2",
+        "berthNo": 21,
+        "berthCode": "LB",
+        "formatted": "CNF/B2/21/LB"
+      },
+      "current": {
+        "status": "CNF",
+        "coachId": "B2",
+        "berthNo": 21,
+        "berthCode": "LB",
+        "formatted": "CNF , B2 - 21 [LB]"
+      }
+    },
+    {
+      "serialNumber": "Passenger 2",
+      "berthCode": "MB",
+      "isConfirmed": true,
+      "current": {
+        "status": "CNF",
+        "coachId": "B2",
+        "berthNo": 22,
+        "berthCode": "MB",
+        "formatted": "CNF , B2 - 22 [MB]"
+      }
+    }
+  ],
+  "generatedAt": "2026-08-27T05:00:00+05:30"
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#0f766e"/>
+  <rect x="96" y="160" width="320" height="192" rx="16" fill="#ffffff" opacity="0.95"/>
+  <rect x="128" y="192" width="64" height="48" rx="8" fill="#ccfbf1"/>
+  <rect x="208" y="192" width="64" height="48" rx="8" fill="#99f6e4"/>
+  <rect x="288" y="192" width="64" height="48" rx="8" fill="#5eead4"/>
+  <rect x="128" y="256" width="64" height="48" rx="8" fill="#5eead4"/>
+  <rect x="208" y="256" width="64" height="48" rx="8" fill="#2dd4bf"/>
+  <rect x="288" y="256" width="64" height="48" rx="8" fill="#14b8a6"/>
+  <text x="256" y="130" text-anchor="middle" fill="#ffffff" font-family="system-ui,sans-serif" font-size="48" font-weight="700">TCP</text>
+</svg>

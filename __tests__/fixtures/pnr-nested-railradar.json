@@ -1,0 +1,49 @@
+{
+  "pnr": "5827194603",
+  "train": {
+    "number": "12987",
+    "name": "SAMPURN K RAJDHANI"
+  },
+  "journey": {
+    "dateOfJourney": "22 Aug 2026, 04:35:00 pm",
+    "class": "3A",
+    "quota": "GN",
+    "source": { "code": "JP", "name": "JAIPUR JN" },
+    "destination": { "code": "NDLS", "name": "NEW DELHI" },
+    "boardingPoint": { "code": "JP", "name": "JAIPUR JN" }
+  },
+  "chart": { "status": "Chart Prepared" },
+  "passengers": [
+    {
+      "serialNumber": "Passenger 1",
+      "booking": {
+        "status": "CNF",
+        "coach": "B5",
+        "berthNo": 22,
+        "berthCode": "LB",
+        "details": "CNF/B5/22/LB"
+      },
+      "current": {
+        "status": "CNF",
+        "coach": "B5",
+        "berthNo": 22,
+        "berthCode": "LB",
+        "details": "CNF , B5 - 22 [LB]"
+      }
+    },
+    {
+      "serialNumber": "Passenger 2",
+      "booking": {
+        "status": "RAC",
+        "details": "RAC/7"
+      },
+      "current": {
+        "status": "CNF",
+        "coach": "B5",
+        "berthNo": 31,
+        "berthCode": "UB",
+        "details": "CNF , B5 - 31 [UB]"
+      }
+    }
+  ]
+}

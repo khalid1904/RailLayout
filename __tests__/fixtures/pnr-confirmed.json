@@ -1,0 +1,31 @@
+{
+  "pnr": "1234567890",
+  "trainNumber": "12637",
+  "trainName": "PANDIAN EXPRESS",
+  "journeyDate": "2026-08-27",
+  "fromStation": { "code": "MAS", "name": "Chennai Central" },
+  "toStation": { "code": "MDU", "name": "Madurai Junction" },
+  "boardingStation": { "code": "MAS", "name": "Chennai Central" },
+  "class": "SL",
+  "chartStatus": "Chart prepared",
+  "passengers": [
+    {
+      "number": 1,
+      "name": "KHALID M",
+      "bookingStatus": "CNF",
+      "currentStatus": "CNF B2 21 LB",
+      "coach": "B2",
+      "berth": 21,
+      "berthType": "LB"
+    },
+    {
+      "number": 2,
+      "name": "FATIMA K",
+      "bookingStatus": "CNF",
+      "currentStatus": "CNF B2 22 MB",
+      "coach": "B2",
+      "berth": 22,
+      "berthType": "MB"
+    }
+  ]
+}

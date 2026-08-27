@@ -1,0 +1,18 @@
+{
+  "pnr": "3456789012",
+  "trainNumber": "12638",
+  "trainName": "OTHER EXPRESS",
+  "journeyDate": "2026-08-28",
+  "fromStation": { "code": "MAS", "name": "Chennai Central" },
+  "toStation": { "code": "MDU", "name": "Madurai Junction" },
+  "boardingStation": { "code": "MAS", "name": "Chennai Central" },
+  "class": "SL",
+  "passengers": [
+    {
+      "number": 1,
+      "name": "TEST USER",
+      "bookingStatus": "CNF",
+      "currentStatus": "CNF B1 10 LB"
+    }
+  ]
+}

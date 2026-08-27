@@ -1,0 +1,17 @@
+{
+  "pnr": "6515483791",
+  "train": { "number": "12637", "name": "PANDIAN EXPRESS" },
+  "journey": { "class": "SL", "dateOfJourney": "27 Aug 2026" },
+  "chart": { "status": "Chart Prepared" },
+  "PassengerStatus": [
+    {
+      "Number": 1,
+      "Name": "KHALID M",
+      "BookingStatus": "GNWL 12",
+      "CurrentStatus": "CNF B2 21 LB",
+      "CurrentCoachId": "B2",
+      "CurrentBerthNo": "21",
+      "CurrentBerthCode": "LB"
+    }
+  ]
+}

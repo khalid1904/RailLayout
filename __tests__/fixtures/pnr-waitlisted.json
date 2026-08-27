@@ -1,0 +1,19 @@
+{
+  "pnr": "2345678901",
+  "trainNumber": "12637",
+  "trainName": "PANDIAN EXPRESS",
+  "journeyDate": "2026-08-27",
+  "fromStation": { "code": "MAS", "name": "Chennai Central" },
+  "toStation": { "code": "MDU", "name": "Madurai Junction" },
+  "boardingStation": { "code": "MAS", "name": "Chennai Central" },
+  "class": "SL",
+  "chartPrepared": false,
+  "passengers": [
+    {
+      "number": 1,
+      "name": "RAHUL S",
+      "bookingStatus": "GNWL 12",
+      "currentStatus": "GNWL 4"
+    }
+  ]
+}
